@@ -1,0 +1,2 @@
+# KaliciDegiskenler
+Kalıcı değişkenler (Persistent)
